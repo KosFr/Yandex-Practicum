@@ -21,5 +21,5 @@
 
 ## Используемые библиотеки
 
-*pandas*
-*seaborn*
+- *pandas*
+- *seaborn*

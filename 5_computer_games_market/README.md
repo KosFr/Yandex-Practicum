@@ -13,3 +13,4 @@
 - *scipy*
 - *numpy*
 - *matplotlib*
+- *missingno*

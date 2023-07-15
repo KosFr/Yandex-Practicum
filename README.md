@@ -10,3 +10,4 @@
 | [Исследование рынка недвижимости](/3_apartment_research/README.md) | Исследование рынка недвижимости в Санкт-Петербурге и окрестностях | pandas, seaborn, numpy, matplotlib |
 | [Тарифы мобильной связи](/4_telecommunications/README.md) | Сравнение 2-х тарифных планов у оператора сотовой связи | pandas |
 | [Интернет-магазин компьютерных игр](/5_computer_games_market/README.md) | Анализ исторических данных об игровой индустрии, выявление критериев успешности игры | pandas, seaborn, scipy, numpy, matplotlib, missingno |
+| [Анализ бизнес-показателей приложения](/6_application_metrics/README.md) | Анализ различных показетей развлекательного приложения, выяснение причин неудачных вложений в рекламу | pandas, numpy, matplotlib, datetime |

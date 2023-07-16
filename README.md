@@ -11,4 +11,4 @@
 | [Тарифы мобильной связи](/4_telecommunications/README.md) | Сравнение 2-х тарифных планов у оператора сотовой связи | pandas |
 | [Интернет-магазин компьютерных игр](/5_computer_games_market/README.md) | Анализ исторических данных об игровой индустрии, выявление критериев успешности игры | pandas, seaborn, scipy, numpy, matplotlib, missingno |
 | [Анализ бизнес-показателей приложения](/6_application_metrics/README.md) | Анализ различных показателей развлекательного приложения, выяснение причин неудачных вложений в рекламу | pandas, numpy, matplotlib, datetime |
-| [А/B-тест и проверка гипотез в интернет-магазине](/7_ab_test/README.md) | Принятие решений в бизнесе на основе А/B-теста | pandas, numpy, matplotlib, math, datetime, scipy, seaborn |
+| [Принятие решений в бизнесе](/7_ab_test/README.md) | А/B-тест и проверка гипотез в интернет-магазине | pandas, numpy, matplotlib, math, datetime, scipy, seaborn |

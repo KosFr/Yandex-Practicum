@@ -13,3 +13,4 @@
 | [Анализ бизнес-показателей приложения](/6_application_metrics/README.md) | Анализ различных показателей развлекательного приложения, выяснение причин неудачных вложений в рекламу | pandas, numpy, matplotlib, datetime |
 | [Принятие решений в бизнесе](/7_ab_test/README.md) | А/B-тест и проверка гипотез в интернет-магазине | pandas, numpy, matplotlib, math, datetime, scipy, seaborn |
 | [Событийная аналитика](/8_mobile_application/README.md) | Изучение пользовательской воронки, анализ результатов A/A/B-эксперимента | pandas, plotly, numpy, matplotlib, math, datetime, scipy, seaborn |
+| [Рынок заведений общественного питания Москвы](/9_catering_research/README.md) | Исследование рынка общественного питания Москвы и рекомендации по запуску кофейни в Москве, презентация результатов | pandas, plotly, numpy, matplotlib, missingno, math, datetime, scipy, seaborn, json, folium |

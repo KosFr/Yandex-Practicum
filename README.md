@@ -15,3 +15,6 @@
 | [Событийная аналитика](/8_mobile_application/README.md) | Изучение пользовательской воронки, анализ результатов A/A/B-эксперимента | pandas, plotly, numpy, matplotlib, math, datetime, scipy, seaborn |
 | [Рынок заведений общественного питания Москвы](/9_catering_research/README.md) | Исследование рынка общественного питания Москвы и рекомендации по запуску кофейни в Москве, презентация с результатами | pandas, plotly, numpy, matplotlib, missingno, math, datetime, scipy, seaborn, json, folium |
 | [Дашборд для Дзена](/10_dzen_dashboard/README.md) | Анализ взаимодействия пользователей с карточками Яндекс Дзен, презентация с результатами | pandas, sqlalchemy |
+| [Игры — Анализ рекламных источников](/11_games_ads/README.md) | Анализ влияния рекламных активностей на поведение пользователей игрового приложения | pandas, plotly, numpy, matplotlib, datetime, scipy, seaborn |
+| [Проект по А/B-тестированию - Анализ активностей Яндекс Дзена](/12_ab_test_analysis/README.md) | Проведение оценки результатов A/B-теста | pandas, plotly, numpy, matplotlib, scipy, seaborn |
+| [Проект SQL — Анализ данных сервиса для чтения книг](/13_book_reading/README.md) | Анализ базы данных сервиса для чтения книг по подписке, формулировка предложения для нового продукта | pandas, sqlalchemy |
